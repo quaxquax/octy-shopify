@@ -206,7 +206,7 @@ Follow these steps to do so:
 - Under 'sales channels' in the left hand menu, go to: Themes > Actions (drop down) > Edit code > Under 'assests' > 'Add new asset'.
 - Name this file 'octy-shopify.js', leave it empty and save.
 
-- Under layout > open 'theme.liquid'
+- Under layout > open 'theme.liquid '
 
 - Add the following lines inside the < head > tags, and save:
 
