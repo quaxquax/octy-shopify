@@ -1,4 +1,4 @@
-const octyAppHost = '' // host or ngrok_tunnel set in ./octy-shopify/pkg/config/config.yaml
+const octyAppHost = 'https://3b4a-158-69-31-71.ngrok-free.app' // host or ngrok_tunnel set in ./octy-shopify/pkg/config/config.yaml
 
 module.exports = {
   octyAppHost,
